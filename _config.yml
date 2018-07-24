@@ -68,7 +68,7 @@ ba_track_id: 54a703726cc3b37647f2c63e92dec5b6
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Contact me at chenhj183@gmail"
+sidebar-about-description: "Contact me at chenhj183@gmail.com"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
