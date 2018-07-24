@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      "Welcome to Nick's Blog"
+subtitle:   ""
+date:       2018-07-24
+author:     "Nick"
+header-img: "img/welcome.jpg"
+tags:
+    - 前端
+---
+
+这是我搭建的第一个正式的博客。
+这里附上一些搭建时的参考资料，感谢前辈们的知识分享。
+
+> [https://zhuanlan.zhihu.com/p/24862930][1]
+> [louisly.com/2016/04/used-jekyll-to-create-my-github-blog/][2]
+> [https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md][3]
+> [https://www.zybuluo.com/mdeditor][4]
