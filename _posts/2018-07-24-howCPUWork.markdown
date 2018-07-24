@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "CPU是如何工作的"
+subtitle:   ""
+date:       2018-07-24
+author:     "Nick"
+header-img: "img/welcome.jpg"
+tags:
+    - 计算机系统
+    - 转载
+---
+
+这里是一些参考资料，感谢前辈们的知识分享。
+
+[CPU 是如何工作的？](https://woshijpf.github.io/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/2016/04/29/CPU-%E6%98%AF%E6%80%8E%E4%B9%88%E5%B7%A5%E4%BD%9C%E7%9A%84.html)  

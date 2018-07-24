@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "知乎Bookmarks入口"
+subtitle:   ""
+date:       2018-07-24
+author:     "Nick"
+header-img: "img/welcome.jpg"
+tags:
+    - 机器学习
+    - 数据挖掘
+    - 计算机网络
+    - Python
+    - Java
+    - C/C++
+    - 转载
+---
+
+前期未搭建博客的时候，把一些觉得不错的帖子链接都收藏在知乎的一篇文章里，由于转接过来比较繁杂，所以这里直接提供入口。以后都会尽量写在这边。
+
+<https://zhuanlan.zhihu.com/p/34396409>
