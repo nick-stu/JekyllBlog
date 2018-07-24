@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: chenhj183@gmail.com
 description: "Development of things are spiraling"
 keyword: ""
-url: "http://nick-stu.github.io"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://nick-stu.github.io"              # your host, for absolute URL
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
