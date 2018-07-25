@@ -4,6 +4,7 @@ title:      "入门前端小工具"
 subtitle:   ""
 date:       2018-07-24
 author:     "Nick"
+code: 5
 header-img: "img/welcome.jpg"
 tags:
     - 前端

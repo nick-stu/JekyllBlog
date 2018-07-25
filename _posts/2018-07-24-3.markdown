@@ -4,6 +4,7 @@ title:      "一些计算机存储知识"
 subtitle:   ""
 date:       2018-07-24
 author:     "Nick"
+code: 3
 header-img: "img/welcome.jpg"
 tags:
     - 计算机系统

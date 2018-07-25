@@ -4,6 +4,7 @@ title:      "CPU是如何工作的"
 subtitle:   ""
 date:       2018-07-24
 author:     "Nick"
+code: 4
 header-img: "img/welcome.jpg"
 tags:
     - 计算机系统

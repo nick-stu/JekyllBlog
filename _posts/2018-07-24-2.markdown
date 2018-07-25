@@ -3,13 +3,14 @@ layout:     post
 title:      "关于Git的基本使用技巧"
 subtitle:   ""
 date:       2018-07-24
+code:  2
 author:     "Nick"
 header-img: "img/welcome.jpg"
 tags:
     - Git
     - 转载
 ---
-*序列号：[2]*  
+ 
 这里是一些参考资料，感谢前辈们的知识分享。
 
 [Coding 帮助文档](https://coding.net/help/doc/git/push.html)  
