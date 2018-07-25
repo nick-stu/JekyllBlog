@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Welcome to Nick's Blog[1]"
+title:      "Welcome to Nick's Blog"
 subtitle:   ""
 date:       2018-07-24
 author:     "Nick"
@@ -8,7 +8,7 @@ header-img: "img/welcome.jpg"
 tags:
     - 前端
 ---
-
+*序列号：[1]*
 这是我搭建的第一个正式的博客。
 这里附上一些搭建时的参考资料，感谢前辈们的知识分享。
 
