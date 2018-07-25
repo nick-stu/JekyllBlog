@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Welcome to Nick's Blog"
-subtitle:   "1"
+title:      "Welcome to Nick's Blog[1]"
+subtitle:   ""
 date:       2018-07-24
 author:     "Nick"
 header-img: "img/welcome.jpg"
