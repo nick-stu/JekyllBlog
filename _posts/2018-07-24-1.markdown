@@ -4,6 +4,7 @@ title:      "Welcome to Nick's Blog"
 subtitle:   ""
 date:       2018-07-24
 author:     "Nick"
+code:     1
 header-img: "img/welcome.jpg"
 tags:
     - 前端
