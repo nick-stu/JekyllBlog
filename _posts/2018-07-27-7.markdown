@@ -27,8 +27,8 @@ tags:
 为了避免模块名冲突，Python又引入了按目录来组织模块的方法，称为包（Package）。  
 import xx导入模块对于模块中的函数，每次调用需要“模块.函数”来用。
 from xx import fun 直接导入模块中某函数，直接fun()就可用。
-![module](img/7/4.png)
-图片来源：https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014318447437605e90206e261744c08630a836851f5183000
+![module](../../../../img/7/4.png)
+[图片来源](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014318447437605e90206e261744c08630a836851f5183000)
 
 遇到UnicodeDecodeError: 'gbk' codec can't decode byte 0xbf in position 2: illegal multibyte sequence
 一般要注意修改文件的编码。
@@ -36,11 +36,11 @@ from xx import fun 直接导入模块中某函数，直接fun()就可用。
 ## 第三章发现群组（上）
 #### 博客单词计数：
 通过RSS提取出信息，再**利用正则表达式**替换掉html标记，通过如上**获得了数据集**，挑选出**有价值的单词列表**（这里是以出现某单词的博客数目作为衡量，如“the”，每个博客都会出现，因而没必要研究），再将结果**写入文件中**。
-![xlsx](img/7/1.png)
+![xlsx](../../../../img/7/1.png)
 #### 聚类分析：
 **分级聚类**
 先从文件中读取数据，通过皮尔逊相似度**计算不同博客之间的相似度**，进行**分级聚类**，随后我们可以把聚类情况**画图**，通过获取节点的高度和误差，可以使得出的图兼具美观与实际意义（这里水平线代表误差即差异，垂直线是为了构图规整）
-![tree](img/7/2.png)
+![tree](../../../../img/7/2.png)
 换个思路，我们将数据矩阵转置，可分析单词之间的相似度。不过关于聚类有一点很重要:当数据项的数量比变量多的时候,出现无意义聚类的可能性就会增加。由于单词的数量比博客多很多,因此我们会发现,在博客聚类中出现的模式比单词聚类更为合理
 
 此外k-means也可应用，对于“是否”之类的可以用tanimoto衡量距离。
@@ -48,11 +48,12 @@ from xx import fun 直接导入模块中某函数，直接fun()就可用。
 #### 遇到的小问题：
 安装PIL时老报错，显示pip的问题，后经查阅：PIL只支持到Python 2.7。Pillow是PIL的一个派生分支，所以可以安装pillow
 安装beautifulsoup也出现了问题，一般此类问题首要考虑是不是版本的问题、有没有新的模块，我这里就是改为安装bs4就成功了，不过urllib3和urllib2、urllib的区别较大，在python3中urllib2是变为urllib.request和urllib.error。
-![simple](img/7/3.png)
+![simple](../../../../img/7/3.png)
 
 python解释器查找包的顺序
-![order](img/7/5.png)
-图片来源：http://sanyuesha.com/2016/05/28/python-module-path-find/
+![order](../../../../img/7/5.png)
+[图片来源](http://sanyuesha.com/2016/05/28/python-module-path-find/)
+
 
 
     源码链接：https://github.com/nick-stu/ProgrammingCollectiveIntelligence
