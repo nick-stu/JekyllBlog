@@ -14,7 +14,5 @@ tags:
 这里附上一些搭建时的参考资料，感谢前辈们的知识分享。
 
 
-[louisly.com/2016/04/used-jekyll-to-create-my-github-blog/](louisly.com/2016/04/used-jekyll-to-create-my-github-blog/)  
-<https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md>  
-<https://www.zybuluo.com/mdeditor>  
-<https://zhuanlan.zhihu.com/p/24862930>
+[用Jekyll搭建的Github Pages个人博客](http://louisly.com/2016/04/used-jekyll-to-create-my-github-blog/)  
+[Hux blog 模板](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)  
