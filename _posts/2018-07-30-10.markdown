@@ -131,4 +131,6 @@ tips：只有非零值才重要的二元属性是非对称的二元属性
 星形坐标
 ![勇士总冠军！](https://nick-stu.github.io/img/10/8.png)
 chernoff脸（脑补一下小丸子她爷爷的脸就知道了）
+
+Kaggle有个[Notebook](https://www.kaggle.com/benhamner/python-data-visualizations/notebook)演示了几种常见的可视化方法
 >OLAP（联机分析处理）和多维数据分析
