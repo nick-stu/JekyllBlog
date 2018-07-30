@@ -24,7 +24,7 @@ knnClf=KNeighborsClassifier(n_neighbors=3) #可调整参数
 knnClf.fit(trainData,ravel(trainLabel)) #训练模型，注意trainData每行为一样本，trainLabel为行向量
 testLabel=knnClf.predict(testData) #分类器预测
 ```
-样本数过大，中途出现了MemoryError.  
+样本数过大，中途出现了MemoryError  
 总的来说，过程并不算陌生，基本上都是之前用matlab实现过的项目流程，需要在使用python相关工具上更为熟练。  
 按格式提交后，就能看见结果和排名了
 ![a](https://nick-stu.github.io/img/9/1.png)
